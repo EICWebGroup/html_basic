@@ -1,0 +1,47 @@
+font-size:00px　文字の大きさ
+
+background-color　背景の色
+
+color:#     文字の色
+
+
+
+
+
+
+
+<?>  :タグ
+
+<img src=   ></img>    　　　　　:データ「?????」を貼り付ける。
+
+
+
+
+<font color="red">hello</font>      ：文字出力(赤)
+
+<div style="height:510px:width:10px;background-color:red;>　　　　　
+
+<div>:箱
+
+
+<a href="リンク先"></a>             :リンクをはる。
+
+
+
+<a></a>ではさむとひとつの作業
+
+
+
+
+id="bbb"などは
+
+#bbb{
+
+}
+で指定した仕事をその行で適応する
+
+
+
+
+
+
